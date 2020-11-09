@@ -3,3 +3,5 @@ class Main {
     System.out.println("Hello world!");
   }
 }
+
+// java Main um Programm zu starten
